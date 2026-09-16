@@ -3,6 +3,9 @@
 A clean RESTful API for managing categories and products with full CRUD operations, built using ASP.NET Core and Entity Framework Core.
 
 ## 📷 API Overview & Documentation
+You can test all RESTful endpoints directly in your browser using the interactive Swagger UI:
+
+🔗 **Live Swagger UI**: https://e-commerce-api-faf5.onrender.com
 
 Interactive API testing and documentation powered by **Swagger / OpenAPI**:
 
